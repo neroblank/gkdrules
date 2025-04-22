@@ -1,3 +1,17 @@
+// gkd.json5
+{
+  id: 23333,
+  name: 'neroblank',
+  version: 0,
+  author: 'author',
+  updateUrl: 'https://raw.githubusercontent.com/neroblank/gkdrules/refs/heads/main/customrules.json5',
+  checkUpdateUrl: 'https://raw.githubusercontent.com/neroblank/gkdrules/refs/heads/main/customrules.json5',
+  supportUri: 'https://gkd.li/',
+  categories: [],
+  globalGroups: [],
+  apps: [],
+},
+
 {
   id: 'com.fobwifi.transocks', 
   name: '穿梭', 
