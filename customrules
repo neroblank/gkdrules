@@ -1,0 +1,18 @@
+{
+  id: 'com.fobwifi.transocks', 
+  name: '穿梭', 
+  groups: [
+    {
+      key: 0,
+      name: '开屏广告跳过', 
+      rules: { matches: 'TextView[id="com.fobwifi.transocks:id/skip_view"]' },
+      snapshotUrls: ['https://i.gkd.li/snapshot/1745299619686'],
+    },
+	 {
+      key: 1,
+      name: '开屏连接', 
+      rules: { matches: 'TextView[id="com.fobwifi.transocks:id/tv_status"]' },
+      snapshotUrls: ['https://i.gkd.li/snapshot/1745298862868'],
+    },
+  ],
+}
